@@ -76,6 +76,7 @@ int main()
 [百度](https://www.baidu.com "跳转到百度")
 
 # 插入图片
-![图片](C:/Users/qinghehe198508/Pictures/美丽图片/2.png)
+![2.png](https://s2.loli.net/2022/01/19/a5ODLltzgbfQh3R.png)
+
 
 
